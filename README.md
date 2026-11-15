@@ -87,15 +87,6 @@ I'm just getting started, so my first projects are on the way. Here's what's pla
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullaha2007&show_icons=true&theme=tokyonight&hide_border=true" alt="Abdullah's GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullaha2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
